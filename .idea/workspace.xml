@@ -49,7 +49,7 @@
 }]]></component>
   <component name="RunManager" selected="JUnit.RestAssuredTest">
     <configuration name="RestAssuredTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learnAutomation" />
+      <module name="LearnAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
       <option name="TEST_OBJECT" value="class" />
@@ -58,7 +58,7 @@
       </method>
     </configuration>
     <configuration name="RestAssuredTest.checkContentType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learnAutomation" />
+      <module name="LearnAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
       <option name="METHOD_NAME" value="checkContentType" />
@@ -68,7 +68,7 @@
       </method>
     </configuration>
     <configuration name="RestAssuredTest.checkHitAPISuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learnAutomation" />
+      <module name="LearnAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
       <option name="METHOD_NAME" value="checkHitAPISuccess" />
@@ -78,7 +78,7 @@
       </method>
     </configuration>
     <configuration name="RestAssuredTest.checkIsThereItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learnAutomation" />
+      <module name="LearnAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
       <option name="METHOD_NAME" value="checkIsThereItem" />
@@ -88,11 +88,24 @@
       </method>
     </configuration>
     <configuration name="RestAssuredTest.checkLogRequestResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="learnAutomation" />
+      <module name="LearnAutomation" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
       <option name="METHOD_NAME" value="checkLogRequestResponse" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LearnAutomation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LearnAutomation" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675238487852</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[NEW] Learn Rest Assured">
+      <created>1675238589615</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675238589615</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
