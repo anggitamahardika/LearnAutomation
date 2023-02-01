@@ -13,7 +13,6 @@
         <maven.compiler.target>17</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <restassured.version>3.3.0</restassured.version>
-        <junit.dataprovider.version>2.4</junit.dataprovider.version>
         <jackson.databind.version>2.9.8</jackson.databind.version>
     </properties>
     <dependencies>
@@ -21,12 +20,6 @@
             <groupId>io.rest-assured</groupId>
             <artifactId>rest-assured</artifactId>
             <version>${restassured.version}</version>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>com.tngtech.junit.dataprovider</groupId>
-            <artifactId>junit4-dataprovider</artifactId>
-            <version>${junit.dataprovider.version}</version>
             <scope>test</scope>
         </dependency>
         <dependency>
