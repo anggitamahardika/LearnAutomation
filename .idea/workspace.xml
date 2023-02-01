@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27092a7c-09be-45a5-ba88-de20835ad7da" name="Changes" comment="[NEW] Learn Rest Assured">
+      <change afterPath="$PROJECT_DIR$/src/test/java/entity/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/entity/Place.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restassure/Chapter2MultipleData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restassure/Chapter3OptimizingAssured.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restassure/Chapter4DeserializationObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RestAssuredTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/restassure/Chapter1BasicTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,79 +51,97 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/INTELLIJ/LearnAutomation",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.RestAssuredTest">
-    <configuration name="RestAssuredTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Chapter4DeserializationObjects.tryToSeCountry">
+    <configuration name="Chapter2MultipleData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassure" />
+      <option name="MAIN_CLASS_NAME" value="restassure.Chapter2MultipleData" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestAssuredTest.checkContentType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter2MultipleData.listData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
-      <option name="METHOD_NAME" value="checkContentType" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassure" />
+      <option name="MAIN_CLASS_NAME" value="restassure.Chapter2MultipleData" />
+      <option name="METHOD_NAME" value="listData" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RestAssuredTest.checkHitAPISuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Chapter3OptimizingAssured" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LearnAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
-      <option name="METHOD_NAME" value="checkHitAPISuccess" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassure" />
+      <option name="MAIN_CLASS_NAME" value="restassure.Chapter3OptimizingAssured" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter4DeserializationObjects" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassure" />
+      <option name="MAIN_CLASS_NAME" value="restassure.Chapter4DeserializationObjects" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter4DeserializationObjects.tryToSeCountry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassure" />
+      <option name="MAIN_CLASS_NAME" value="restassure.Chapter4DeserializationObjects" />
+      <option name="METHOD_NAME" value="tryToSeCountry" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestAssuredTest.checkIsThereItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
-      <option name="METHOD_NAME" value="checkIsThereItem" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestAssuredTest.checkLogRequestResponse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LearnAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RestAssuredTest" />
-      <option name="METHOD_NAME" value="checkLogRequestResponse" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="LearnAutomation" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="LearnAutomation" />
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RestAssuredTest" />
-        <item itemvalue="JUnit.RestAssuredTest.checkLogRequestResponse" />
-        <item itemvalue="JUnit.RestAssuredTest.checkIsThereItem" />
-        <item itemvalue="JUnit.RestAssuredTest.checkContentType" />
-        <item itemvalue="JUnit.RestAssuredTest.checkHitAPISuccess" />
+        <item itemvalue="JUnit.Chapter4DeserializationObjects.tryToSeCountry" />
+        <item itemvalue="JUnit.Chapter4DeserializationObjects" />
+        <item itemvalue="JUnit.Chapter3OptimizingAssured" />
+        <item itemvalue="JUnit.Chapter2MultipleData" />
+        <item itemvalue="JUnit.Chapter2MultipleData.listData" />
       </list>
     </recent_temporary>
   </component>
@@ -143,8 +168,26 @@
       <option name="project" value="LOCAL" />
       <updated>1675238589615</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[NEW] Learn Rest Assured">
+      <created>1675238815419</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675238815419</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[NEW] Learn Rest Assured" />
